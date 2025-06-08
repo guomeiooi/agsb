@@ -34,8 +34,8 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "guomeiooi"         # 用户名
 UUID = "01199bb9-c51a-4f28-aa27-b0d5e52d3ab8"                     # UUID，留空则自动生成
 PORT = 43395                   # Vmess端口，留空或0则自动生成
-DOMAIN = "gugeyun001.xxcardinalcommerce.com"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiZDZlMjA0NDAzZjRlZDQ3YTYxM2JmZjRkODAxNTMxYjkiLCJ0IjoiYzAyZjA3YTYtNmUzZS00NmYyLThjZWQtNGIwOTA5MGI2NmFiIiwicyI6Ik5XSTJORFV5T0RjdE5qWTFaQzAwT0dNMkxXSm1ZVFF0T1dObE9HUmlaVFZpWVRaaiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+DOMAIN = "gugeyun002.xxcardinalcommerce.com"                   # 域名，留空则自动获取
+CF_TOKEN = "eyJhIjoiZDZlMjA0NDAzZjRlZDQ3YTYxM2JmZjRkODAxNTMxYjkiLCJ0IjoiNTQ4NzAxYWYtMDhiNS00YTE3LWExZGItNWM1ZjE1OWRlOGM0IiwicyI6Ik9UZzVNREptTWpZdE1UVTNaQzAwTXpjeExXRmpNREl0WmpJM056UTFaVE0yT0RrMCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
